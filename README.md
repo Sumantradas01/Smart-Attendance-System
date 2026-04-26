@@ -1,1 +1,1 @@
-# Smart-Attendance-System
+# ai-attendance-project-app
