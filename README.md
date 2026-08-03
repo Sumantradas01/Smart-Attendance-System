@@ -1,6 +1,6 @@
 # Smart Face Recognition-Based Attendance System
 
-This project is a Smart Face Recognition-Based Attendance System designed to automate and simplify the process of taking attendance using facial recognition technology. It leverages machine learning and computer vision libraries to identify and record the presence of registered individuals in real time.
+This project is a Smart Face Recognition-Based Attendance System designed to automate and simplify the process of taking attendance using facial recognition technology. It leverages machine learning and computer vision to identify and verify individuals in real-time.
 
 ## Features
 
@@ -91,6 +91,12 @@ Smart-Attendance-System/
 ├── main.py              # Main script to run the system
 └── README.md
 ```
+
+## Project Link
+
+You can view the live demo / deployed app here:
+
+https://snapclass.streamlit.app/
 
 ## License
 
